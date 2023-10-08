@@ -1,2 +1,2 @@
 [install.scopes]
-"@renovatebot" = { url = "https://npm.pkg.github.com/" }
+"@renovatebot" = { token = "$GITHUB_TOKEN", url = "https://npm.pkg.github.com/" }
