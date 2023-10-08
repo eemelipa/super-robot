@@ -1,0 +1,2 @@
+[install.scopes]
+"@renovatebot" = { url = "https://npm.pkg.github.com/" }

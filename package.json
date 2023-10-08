@@ -1,0 +1,9 @@
+{
+  "name": "super-robot",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "typescript": "5.0.4",
+    "@renovatebot/eslint-plugin": "0.0.1"
+  }
+}
