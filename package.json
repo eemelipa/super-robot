@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "dependencies": {
-    "typescript": "5.0.4",
+    "typescript": "5.6.3",
     "@renovatebot/eslint-plugin": "0.0.5"
   }
 }
